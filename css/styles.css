@@ -1,0 +1,23 @@
+
+.turtles {
+  background: url("https://images.unsplash.com/photo-1615440989791-7b7523ed75ea?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2689&q=80");
+}
+
+.snakes {
+  background: url("https://images.unsplash.com/photo-1472645977521-95bbf4f0a748?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1234&q=80");
+}
+
+.insects {
+  background: url("https://images.unsplash.com/photo-1588260693037-45d3add2388d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1952&q=80");
+}
+
+.hide-start {
+  display: none;
+}
+
+.card {
+  min-height: 65vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}

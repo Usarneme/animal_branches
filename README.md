@@ -1,6 +1,6 @@
 # PROJECT NAME
 
-## By Usarneme/Tom
+## By Tom, Thomas, and Sammai
 
 ---
 #### Tech Stack:
